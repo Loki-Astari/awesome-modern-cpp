@@ -199,6 +199,7 @@ C++ Benchmark Authoring Library/Framework.
 * [hjson-cpp](https://github.com/hjson/hjson-cpp) - A C++11 library for reading and writing Hjson and/or JSON files.
 * [json_struct](https://github.com/jorgen/json_struct) - High performance, single header JSON parser, parsing directly to and from C++ structs.
 * [daw_json_link](https://github.com/beached/daw_json_link) - Fast, convenient JSON serialization and parsing in C++
+* [ThorsSerializer](https://github.com/Loki-Astari/ThorsSerializer) - JSON/YAML/BSON serialization and parsing directly into C++ structures.
 
 ### String formatting & templating
 
@@ -235,6 +236,7 @@ C++ Benchmark Authoring Library/Framework.
 * [sqlpp11](https://github.com/rbock/sqlpp11) - A type safe SQL template library for C++.
 * [libpqxx](https://github.com/jtv/libpqxx) - The official C++ client API for PostgreSQL.
 * [TinyORM](https://github.com/silverqx/TinyORM) - Modern C++ ORM library.
+* [ThorsMongo](https://github.com/Loki-Astari/ThorsMongo) - Modern C++ api for Mongo CRUD operations (no need to understand BSON)
 
 ### BioC++
 
